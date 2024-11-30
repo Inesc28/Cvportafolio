@@ -1,11 +1,11 @@
 body{
- background: black;
-
+ background: red;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
 .hero{
-    background-image: url(../img/logohero.jpeg);
+background-image: url(../img/logohero.jpeg);
 background-repeat: no-repeat;
 background-size: cover;
 height: 500px;
